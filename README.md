@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-## About Me :<br><br>💻 I’m currently working on  <br>Building web projects and improving my frontend development skills<br><br>🤝 I’m looking to collaborate on  <br>Frontend projects, open source contributions, and creative web applications<br><br>🆘 I’m looking for help with  <br>Advanced React concepts, backend integration, and performance optimization<br><br>🌱 I’m currently learning  <br>Frontend development, Flutter, Node.js, and Express.js<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, Node.js, Express.js, UI design, and beginner-friendly web development<br><br>⚡ Fun fact  <br>I enjoy turning ideas into real-world projects and constantly exploring new tech
+## About Me :<br><br>💻 I’m currently working on  <br>Building web projects and improving my full stack development skills<br><br>🤝 I’m looking to collaborate on  <br>full stack projects, open source contributions, and creative web applications<br><br>🆘 I’m looking for help with  <br>Advanced React concepts, backend integration, and performance optimization<br><br>🌱 I’m currently learning  <br>Frontend development, Node.js, and Express.js<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, Node.js, Express.js, UI design, and beginner-friendly web development<br><br>⚡ Fun fact  <br>I enjoy turning ideas into real-world projects and constantly exploring new tech
 
 
 ## 🌐 Socials:
